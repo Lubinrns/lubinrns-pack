@@ -1,7 +1,7 @@
 {
     "name": "lubinrns-pack",
     "displayName": "lubinrns-pack",
-    "publisher": "lubinrns.extensionpack",
+    "publisher": "lubinrns",
     "description": "lubin_rns vscode's extension pack",
     "version": "0.0.1",
     "engines": {
