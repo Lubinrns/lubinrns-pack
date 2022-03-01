@@ -3,7 +3,7 @@
     "displayName": "lubinrns-pack",
     "publisher": "lubinrns",
     "description": "lubin_rns vscode's extension pack",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "repository": "bitbucket:lubinrns/lubinrns-pack",
     "engines": {
         "vscode": "^1.64.0"
@@ -11,6 +11,16 @@
     "categories": [
         "Extension Packs"
     ],
+    "icon": "images/avatar.png",
+    "galleryBanner": {
+        "color": "#C80000",
+        "theme": "dark"
+    },
+    "license": "SEE LICENSE IN LICENSE FILE",
+    "bugs": {
+        "url": "https://github.com/Lubinrns/lubinrns-pack/issues",
+        "email": "lubinrns44@gmail.com"
+    },
     "extensionPack": [ 
         "penple.skript-vscode",
         "whizkydee.material-palenight-theme",
@@ -20,5 +30,6 @@
         "abusaidm.html-snippets",
         "ecmel.vscode-html-css",
         "icrawl.discord-vscode"
-    ]
+    ],
+    "homepage": "https://github.com/microsoft/vscode-wordcount/blob/main/README.md"
 }
