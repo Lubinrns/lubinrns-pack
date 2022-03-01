@@ -2,14 +2,18 @@
     "name": "lubinrns-pack",
     "displayName": "lubinrns-pack",
     "publisher": "lubinrns",
-    "description": "lubin_rns vscode's extension pack",
+    "description": "VSCode Extention Pack: icons, themes, web syntax... of Lubin_rns.",
     "version": "1.0.0",
-    "repository": "bitbucket:lubinrns/lubinrns-pack",
+    "repository": "github:lubinrns/lubinrns-pack",
     "engines": {
         "vscode": "^1.64.0"
     },
     "categories": [
-        "Extension Packs"
+        "Extension Packs",
+        "Programming Languages",
+        "Themes",
+        "Other"
+
     ],
     "icon": "images/avatar.png",
     "galleryBanner": {
@@ -30,6 +34,9 @@
         "abusaidm.html-snippets",
         "ecmel.vscode-html-css",
         "icrawl.discord-vscode"
+    ],
+    "cpu": [
+        "x64"
     ],
     "homepage": "https://github.com/microsoft/vscode-wordcount/blob/main/README.md"
 }
