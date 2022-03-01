@@ -1,0 +1,23 @@
+{
+    "name": "lubinrns-pack",
+    "displayName": "lubinrns-pack",
+    "publisher": "lubinrns.extensionpack",
+    "description": "lubin_rns vscode's extension pack",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "penple.skript-vscode",
+        "whizkydee.material-palenight-theme",
+        "pkief.material-icon-theme",
+        "arcensoth.language-mcfunction",
+        "ithildir.java-properties",
+        "abusaidm.html-snippets",
+        "ecmel.vscode-html-css",
+        "icrawl.discord-vscode"
+    ]
+}
