@@ -4,6 +4,7 @@
     "publisher": "lubinrns",
     "description": "lubin_rns vscode's extension pack",
     "version": "0.0.1",
+    "repository": "bitbucket:lubinrns/lubinrns-pack",
     "engines": {
         "vscode": "^1.64.0"
     },
